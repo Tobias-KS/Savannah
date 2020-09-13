@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Savannah
 {
-    class Initialize
+    public class Initialize
     {
         Random rnd = new Random();
 

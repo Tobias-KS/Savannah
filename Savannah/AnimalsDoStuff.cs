@@ -112,8 +112,8 @@ namespace Savannah
 
             if (chk.CheckForRabbitMateForMale(x) == true)
             {
-                //inst.AddRabbit();
-                //inst.AddRabbit();
+                inst.AddRabbit();
+                inst.AddRabbit();
                 inst.AddRabbit();
                 inst.AddRabbit();
             }

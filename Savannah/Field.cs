@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Savannah
 {
-    class Field
+   public class Field
     {
         private int location;
         private bool hasGrass;
